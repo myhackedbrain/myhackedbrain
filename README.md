@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Shashwat Anand
-- 👀 I’m interested in Machine Learning and Neural Networks and Algorithms
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Machine learning projects and trainig neural networks and developing complex algorithms
-- 📫 Contact me on : s.anand7771@gmail.com
+- 👋 Hi, I’m Shashwat Anand and I am 17 years old
+- 👀 I’m interested in Web Development , Flutter Development and MERN Stack
+- 🌱 I’m currently Javascript
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 Contact me on : s.anand9786@gmail.com
 
 <!---
 myhackedbrain/myhackedbrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
